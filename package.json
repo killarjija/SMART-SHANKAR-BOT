@@ -1,5 +1,5 @@
 {
-  "name": "shankar-bot",
+  "name": "killer-bot",
   "version": "17.0.0",
   "description": "Shankar bot project.",
   "main": "SHANKAR.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/sk7295/SHANKAR-BOT-SS.git"
   },
-  "author": "Shankar",
+  "author": "killer",
   "license": "GPL-3.0",
   "dependencies": {
     "@miraipr0ject/assets": "^1.0.9",
